@@ -7,7 +7,7 @@ slide: false
 
 # 開発中のhackfon for M5Stack の紹介
 
-「hackfon」とは「アナログ電話をスマートリモコンに」というコンセプトで「FutuRocket株式会社」 (https://www.futurocket.co/)が現在製品化に向けて進めているIoTプロダクトです。
+「hackfon」とは「アナログ電話をスマートリモコンに」というコンセプトで「FutuRocket株式会社」 (https://www.futurocket.co/) が現在製品化に向けて進めているIoTプロダクトです。
 
 ![hackfon](img/01_hackfon.jpg)
 
