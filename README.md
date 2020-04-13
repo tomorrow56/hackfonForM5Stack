@@ -4,8 +4,8 @@
 
 ![hackfon](/techbookfesta8/img/01_hackfon.jpg)
 
-以下に簡単な製品説明があります。
-(技術書典#8の"Madamada M5Stack Moku Moku Mook β" (https://booth.pm/ja/items/1887481)からの抜粋版です)<br>
+以下に簡単な製品説明があります。<br>
+(技術書典#8の"Madamada M5Stack Moku Moku Mook β" ( https://booth.pm/ja/items/1887481 )からの抜粋版です)<br>
 
 /techbookfesta8/tomorrow56_tech8_03.md
 
